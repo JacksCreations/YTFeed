@@ -1,0 +1,42 @@
+h1{
+    text-align: center;
+    justify-content: center;
+    font-size: large;
+    font-family: 'Roboto';
+    margin: 10px;
+    color: black;
+}
+
+.thumbnail {
+    width: 100%;
+}
+.thumbnail img{
+    width: 100%;
+}
+
+body {
+    max-width: 430px;
+    background-color: lightgray;
+}
+
+.title{
+    font: 'Roboto';
+    font-size: 12px;
+    font-weight: bold;
+    color: black;
+}
+
+.subtitle{
+    font: 'Roboto';
+    font-size: 10px;
+    color: black;
+}
+
+.horizontal-line {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border: 1px solid gray; /* Border style with black color */
+    width: 100%; /* Optional: Adjust margin as needed */
+}
+
+.hidden { display: none; }
