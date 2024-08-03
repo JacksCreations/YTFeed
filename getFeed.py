@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 file_path = 'index.html'
 
 channelList = ['fireship', 'codyko', 'jomboymedia', 'hannahmeloche', 'codyko2', 'danny', 'dannymullenofficial', 'VASAviation', 'squatuniversity', 'westcoastflyer', 'CitationMax',
-'sickos', 'kboges', 'mrbeast', 'prestongoes', 'BodyweightWarrior', 'CodeBlueCam', 'clixlive', 'AirSafetyInstitute', 'barefootstrength', 'Afterskool', ]
+'sickos', 'kboges', 'mrbeast', 'prestongoes', 'BodyweightWarrior', 'CodeBlueCam', 'AirSafetyInstitute', 'barefootstrength', 'Afterskool', ]
 videoFeed = [] #title, username, date, videoID, thumbnailLink, views]
 
 insertIntoHTML = ''
